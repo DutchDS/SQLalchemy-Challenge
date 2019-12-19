@@ -12,16 +12,16 @@ Average rainfall over the last year of available data in the database:
 
 A histogram of the frequency of average temperatures for the most active station:
 
-![Temperature Frequency](Images/Temperature Frequency.png) 
+![Temperature_Frequency.png](Images/Temperature_Frequency.png) 
 
 
 A bonus section for graphing the average temperature, with min/max temps being defining the sem (error bar) 
 Including an unpaired(! because the results are not related) independent t_test to see if theres a significant difference between summer and winter months (for example- you chose!)
 
-![Averages for Period with Errorbar.png](Images/Averages for Period with Errorbar.png) 
+![Averages_for_Period_with_Errorbar.png](Images/Averages_for_Period_with_Errorbar.png) 
 
 And lastly my favorite (should anybody actually read this):
 
-![Averages over custom date range](Images/Averages over custom date range.png) 
+![Averages_over_custom_date_range.png](Images/Averages_over_custom_date_range.png) 
 
 WAAW!
