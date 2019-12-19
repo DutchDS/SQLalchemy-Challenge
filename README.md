@@ -20,7 +20,7 @@ Including an unpaired(! because the results are not related) independent t_test 
 
 ![Averages_for_Period_with_Errorbar.png](Images/Averages_for_Period_with_Errorbar.png) 
 
-And lastly my favorite (should anybody actually read this):
+And lastly my favorite (should anybody actually read this far :-) ):
 
 ![Averages_over_custom_date_range.png](Images/Averages_over_custom_date_range.png) 
 

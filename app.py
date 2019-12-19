@@ -41,7 +41,7 @@ def welcome():
     """List all available api routes."""
     return (
         f"Available Routes:<br/>"
-            f" <br/>"
+        f" <br/>"
         f"Precipication in the last year of available data: <br/>"
         f"/api/v1.0/precipitation<br/>"
         f" <br/>"
