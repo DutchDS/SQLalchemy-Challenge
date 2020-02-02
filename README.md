@@ -1,5 +1,5 @@
-# sqlalchemy-challenge
-Week 10 sqlalchemy Homework
+# Week 10 SQLalchemy Challenge
+By A. Rijpkema 12/19/2019
 
 In this folder you will find the results for the SQLAlchemy and Flask exercises as described for week 10.
 
